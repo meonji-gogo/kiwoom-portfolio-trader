@@ -93,7 +93,7 @@ AGENTS.md의 지침을 따르고, ⏸️ USER ACTION이 나오면 안내해줘.
 
 | 서비스 | 용도 | 무료 여부 |
 |--------|------|:---------:|
-| [키움증권 Open API+](https://openapi.kiwoom.com/) | ETF 매매 | ✅ (모의투자) |
+| [키움증권 REST API](https://openapi.kiwoom.com/) | ETF 매매 | ✅ (실전투자) |
 | [Supabase](https://supabase.com/) | 데이터 저장 | ✅ (Free tier) |
 | Telegram Bot | 알림 전송 | ✅ |
 | GCP e2-micro VM | cron 실행 (고정 IP) | ✅ (Free tier) |
